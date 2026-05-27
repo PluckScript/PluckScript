@@ -6,6 +6,10 @@ PLUCK is an experimental programming language focused on readability, simplicity
 
 ---
 
+<img src="banner.png">
+
+---
+
 ## Current Features
 
 - Variables
